@@ -11,8 +11,8 @@ although other members of the biomedical research community may also find the re
 All reference materials included here are freely available.
 
 > All CZI Science activities became a part of Biohub in November 2025. 
-> Although some pages in this website may still reference CZI,
-> we are gradually updating this language to Biohub.
+> For this website's purposes,
+> CZI and Biohub are used interchangeably.
 
 Each of the main sections of this site are framed with 
 examples of the general questions we handle when applying open science approaches.

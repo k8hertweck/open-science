@@ -20,8 +20,8 @@ For more information on how decisions are made and by whom,
 please see our [Governance documentation](/open-science/GOVERNANCE).
 
 > All CZI Science activities became a part of Biohub in November 2025. 
-> Although some materials linked here may still reference CZI,
-> we are gradually updating this language to Biohub.
+> For this website's purposes,
+> CZI and Biohub are used interchangeably.
 
 ## Code of Conduct
 
