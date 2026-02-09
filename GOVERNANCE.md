@@ -17,9 +17,11 @@ Kate Hertweck ([@k8hertweck](https://github.com/k8hertweck))
 outlined the main structure and formatting of the site,
 with a first pass of basic content completed in January 2022.
 
-This project is currently maintained by Kate Hertweck as a part of [Biohub](https://biohub.org/)'s Open Science Program Office (OSPO).
+This project was further developed by Kate Hertweck as a part of [Biohub](https://biohub.org/)'s Open Science Program Office (OSPO).
 While the content of this website still includes much general-purpose information about open science,
 it is intended primarily as a tool to support Biohub researchers.
+The OSPO was retired in February 2026,
+though this content remains available for reference.
 
 Additional Biohub teams who were consulted during the website planning and remain stakeholders in the content include:
 - **Communications:** regulate branding guidelines (colors, font, etc), approve mentions of Biohub for accuracy and clarity, provide access to Plausible for web analytics

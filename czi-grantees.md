@@ -15,10 +15,8 @@ including obligations to engage in open science practices
 and resources available to support these efforts.
 
 > All CZI Science activities became a part of Biohub in November 2025. 
-> Any current or former work, including grant-funded projects, 
-> are now a part of Biohub as well. 
-> Although some materials linked here may still reference CZI,
-> we are gradually updating this language to Biohub.
+> For this website's purposes,
+> CZI and Biohub are used interchangeably.
 
 The following pages consolidate information for grantees in specific programs:
 - [Essential Open Source Software for Science (EOSS)](/open-science/eoss-grantees)
